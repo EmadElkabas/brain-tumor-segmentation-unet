@@ -53,7 +53,8 @@ Split by patient (not by slice) to prevent data leakage between train/val/test.
 ```bash
 pip install -r requirements.txt
 
-## Credits
+## Setup
  Dataset: [LGG MRI Segmentation]
- (https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation) (Buda et al.). Pretrained encoder via [segmentation_models_pytorch](https://github.com/qubvel/segmentation_models.pytorch). 
+ (https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation) (Buda et al.). 
+ Pretrained encoder via [segmentation_models_pytorch](https://github.com/qubvel/segmentation_models.pytorch). 
  
